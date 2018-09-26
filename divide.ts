@@ -2,6 +2,7 @@ function divide(x:number,y:number):number{
     return x/y;
 }
 
+// Divide two numbers
 divide(10,2);
 
 
